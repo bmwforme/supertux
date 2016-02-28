@@ -1,4 +1,5 @@
-// start of sayed code using in fire 
+// start of sayed code using in fire
+// By Mohammed Megahed
 var fire_interval;
 var fire_number=0;
 function fire_collision() {
